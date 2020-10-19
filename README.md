@@ -1,7 +1,7 @@
 
 ### etos image assessment
 
-automatically inspect quality of images for [etos](https://etos.world) ecosystem.
+automatically inspect quality of images.
 
 
 ### NIMA: Neural Image Assessment
